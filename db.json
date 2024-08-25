@@ -1,0 +1,27 @@
+{
+    "mascotas": [
+        {
+            "id": 1,
+            "name": "Kitty",
+            "type": "Gato"
+        },
+
+        {
+            "id": 2,
+            "name": "Yukki",
+            "type": "Gato"
+        },
+
+        {
+            "id": 3,
+            "name": "Thor",
+            "type": "Perro"
+        },
+
+        {
+            "id": 4,
+            "name": "Ares",
+            "type": "Perro"
+        }
+    ]
+}
